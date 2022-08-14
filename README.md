@@ -1,1 +1,1 @@
-# Dsci100_Project
+# Heart Disease Predictor
